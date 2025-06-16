@@ -49,7 +49,7 @@ A modern React-based patient management system that demonstrates different form 
 1. Clone the repository:
    ```bash
    git clone [repository-url]
-   cd RouterWithSCSS
+   cd Patients-Mangemant-System
    ```
 2. Install dependencies:
    ```bash
