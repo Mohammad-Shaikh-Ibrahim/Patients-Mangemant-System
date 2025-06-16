@@ -1,6 +1,9 @@
 # Patient Management System
 
-A modern React-based patient management system that demonstrates different form handling approaches using React Hook Form and Formik.
+A modern React-based patient management system that demonstrates different form handling approaches using React Hook Form and MUI.
+
+![image](https://github.com/user-attachments/assets/21ac58e9-ef5f-4ef7-a345-3d0f4ade52c2)
+
 
 ## Features
 
